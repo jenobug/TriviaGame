@@ -20,7 +20,7 @@ var questions = [{
   question: "1. How did the group form?",
   answers: ["They were all roomates", "They were in a singing group in college", "They answered an ad for a girl group", "They were part of a talent search for a British TV show"],
   correctAnswer: "They answered an ad for a girl group",
-  image: "assets/images/spiceNews.gif"
+  image: "assets/images/spicegirls-3.jpg"
 }, {
   question: "2. What was the orginal name of the group?",
   answers: ["Shine", "Touch", "Power Girls", "It was always the Spice Girls"],
