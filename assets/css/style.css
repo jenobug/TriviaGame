@@ -1,0 +1,78 @@
+html, body{
+    height:100%;
+  }
+  
+  body{
+    background-image: url(../images/SpiceGirlsSTOP.png);
+    text-align: center;  
+    background-size: 55%;
+    background-position: center;
+  }
+  
+  #wrapper{
+    margin:2.5% auto;
+    background-color: rgb(254, 206, 251);
+    opacity: 0.85;
+    width:960px;
+    height: 95%;
+    box-sizing: border-box;
+    border: 8px outset black;
+  }
+  
+  #subwrapper{
+    position: relative;
+  }
+  button {
+    display:block;
+    width:50%;
+    height:20%;
+    margin: 0 auto;
+    border: 3px inset black;
+    cursor: pointer;
+    background:rgb(255, 98, 200);
+    font-size: 35px;
+    color: black;
+    font-family: 'VT323', monospace;
+  }
+  
+  img{
+    height:250px;
+  }
+  
+  h1{
+    font-family: 'Monoton', cursive;
+    font-family: 'VT323', monospace;
+    font-size: 200px;
+    font-weight: bold;
+    color: rgb(255, 98, 200);
+    padding-top: 2.5%;
+  }
+  
+  h2{
+    font-size: 45px;
+    margin-bottom: 25px;
+    font-family: 'VT323', monospace;
+
+  }
+  
+  h3{
+    font-size: 35px;
+    margin-bottom: 25px;
+    font-family: 'VT323', monospace;
+
+  }
+  
+  #start{
+    margin-top: 10%;
+    border:5px outset black;
+    background: rgb(255, 98, 200);
+    font-family: 'VT323', monospace;
+    color: white;
+    font-size: 100px;
+    font-weight: bold;
+  }
+  
+  button:hover {
+    border:5px dotted black;
+    background: rgb(198, 255, 75);
+  }
